@@ -2,6 +2,9 @@
 
 I'm **Knivier**, but known IRL as Agniva. You can find my personal website [by clicking here!](https://bit.ly/KnivPortal "Go to my Portfolio")
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=knivier&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### About Me
