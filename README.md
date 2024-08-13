@@ -8,7 +8,7 @@ I'm **Knivier**, but known IRL as Agniva. You can find my personal website [by c
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=knivier&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### About Me
-My main and favorite language is **Java**, and if you [follow me](https://knivier.github.io/KnivierWeb/index.html#contact) on any of my socials, you'll know I frequently diss Python. However, I sometimes still code in the language because it's slowly becoming more of a standard. 
+My main and favorite language is **Java**, and if you [follow me](https://knivier.github.io/#contact) on any of my socials, you'll know I frequently diss Python. However, I sometimes still code in the language because it's slowly becoming more of a standard. 
 
 My future goals include (on the journey to Full Stack Development):
 - **Full proficiency in Java and JavaScript** for backend development, possibly with intermediate levels of Kotlin and Rust development
@@ -18,7 +18,7 @@ My future goals include (on the journey to Full Stack Development):
 - **[Activerse](https://bit.ly/Activerse "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot that provides a basic template for creating Discord bots. Initially built in 2020 and significantly modernized since.
 
-For more of my projects and detailed descriptions, please visit my [portfolio website](https://bit.ly/KnivPortal "Go to my Portfolio")!
+For more of my projects and detailed descriptions, please visit my [portfolio website](https://bit.ly/Knivier "Go to my Portfolio")!
 
 ### Connect with Me
 <div id="badges">
