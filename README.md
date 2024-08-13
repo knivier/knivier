@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm **Knivier**, but known IRL as Agniva. You can find my personal website [by clicking here!](https://bit.ly/Knivier "Go to my Portfolio")
+I'm **Knivier**, but known IRL as Agniva. You can find my personal website at [knivier.com](knivier.com "Go to my Portfolio")
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true)
@@ -18,7 +18,7 @@ My future goals include (on the journey to Full Stack Development):
 - **[Activerse](https://bit.ly/Activerse "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot that provides a basic template for creating Discord bots. Initially built in 2020 and significantly modernized since.
 
-For more of my projects and detailed descriptions, please visit my [portfolio website](https://bit.ly/Knivier "Go to my Portfolio")!
+For more of my projects and detailed descriptions, please visit my [portfolio website](knivier.com "Go to my Portfolio")!
 
 ### Connect with Me
 <div id="badges">
