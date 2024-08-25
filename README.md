@@ -22,7 +22,7 @@ For more of my projects and detailed descriptions, please visit my [portfolio we
 
 ### Connect with Me
 <div id="badges">
-  <a href="https://www.reddit.com/user/NessJL">
+  <a href="https://www.reddit.com/user/_NessJL">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
   <a href="https://x.com/Knivier">
