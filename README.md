@@ -15,7 +15,7 @@ My future goals include (on the journey to Full Stack Development):
 - **Mastering HTML, CSS, and Bootstrap** for a seamless front-end experience.
 
 ### Notable Projects
-- **[Activerse]([https://knivier.com/activerseinfo] "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
+- **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot that provides a basic template for creating Discord bots. Initially built in 2020 and significantly modernized since.
 
 For more of my projects and detailed descriptions, please visit my [portfolio website](https://knivier.com "Go to my Portfolio")!
