@@ -11,11 +11,16 @@ My main and favorite language is **Java**, and if you [follow me](https://knivie
 
 My future goals include (on the journey to Full Stack Development):
 - **Full proficiency in Java and JavaScript** for backend development, possibly with intermediate levels of Kotlin and Rust development
-- **Mastering HTML, CSS, and Bootstrap** for a seamless front-end experience.
+- **Mastering HTML, CSS, and Bootstrap** for a seamless front-end experience
+- **Learning what the heck DevOps is** and how it could contribute to my work flow 
 
 ### Notable Projects
 - **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot that provides a basic template for creating Discord bots. Initially built in 2020 and significantly modernized since.
+- **[Troll Game](https://knivier.com/trollgameinfo "Troll Game Website")**: A Java-based text game. Conquer as many trolls as you can to defeat Archie the best you could.
+
+> [!NOTE]  
+> Troll Game has sunsetted for the forseeable future as I want to work on other bigger projects :D
 
 For more of my projects and detailed descriptions, please visit my [portfolio website](https://knivier.com "Go to my Portfolio")!
 
