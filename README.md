@@ -1,30 +1,35 @@
-## Hello there!
+## 👋 Hello there!
 
-I'm **Knivier**, but known IRL as Agniva. You can find my personal website at [knivier.com](https://knivier.com "Go to my Portfolio")
+I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website at [knivier.com](https://knivier.com "Go to my Portfolio") to learn more about my projects and journey!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knivier&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=knivier&theme=dark&show_icons=true&hide_border=true&layout=compact)
+### 👨‍💻 About Me
 
-### About Me
-My main and favorite language is **Java**, and if you [follow me](https://knivier.github.io/#contact) on any of my socials, you'll know I frequently diss Python. However, I sometimes still code in the language because it's slowly becoming more of a standard. 
+My main and favorite language is **Java**. If you [follow me](https://knivier.github.io/#contact) on any of my socials, you'll know I frequently roast Python 🐍, but I still code in it because it’s becoming more of a standard in the industry. 
 
-My future goals include (on the journey to Full Stack Development):
-- **Full proficiency in Java and JavaScript** for backend development, possibly with intermediate levels of Kotlin and Rust development
-- **Mastering HTML, CSS, and Bootstrap** for a seamless front-end experience
-- **Learning what the heck DevOps is** and how it could contribute to my work flow 
+### 🛠️ Future Goals 
 
-### Notable Projects
-- **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to make GUI-based game development easier in Java.
-- **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot that provides a basic template for creating Discord bots. Initially built in 2020 and significantly modernized since.
-- **[Troll Game](https://knivier.com/trollgameinfo "Troll Game Website")**: A Java-based text game. Conquer as many trolls as you can to defeat Archie the best you could.
+On my path to becoming a **Full Stack Developer**, my goals include:
+- 🌟 Achieving **full proficiency in Java and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
+- 🎨 Mastering **HTML, CSS, and Bootstrap** for a sleek and responsive front-end experience.
+- 🤔 Understanding **DevOps** and how it can streamline my workflow.
 
-> [!NOTE]  
-> Troll Game has sunsetted for the forseeable future as I want to work on other bigger projects :D
+### 🚀 Notable Projects
 
-For more of my projects and detailed descriptions, please visit my [portfolio website](https://knivier.com "Go to my Portfolio")!
+- **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to simplify GUI-based game development in Java.
+- **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot template, initially built in 2020 and modernized over time.
+- **[Troll Game](https://knivier.com/trollgameinfo "Troll Game Website")**: A Java-based text adventure game. Defeat trolls and conquer challenges to beat Archie!
 
-### Connect with Me
+> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. Stay tuned for what’s next! 😄
+
+For a deeper dive into my work, head over to my [portfolio website](https://knivier.com "Go to my Portfolio").
+
+### 🌐 Connect with Me
+
 <div id="badges">
   <a href="https://www.reddit.com/user/_NessJL">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
@@ -34,4 +39,8 @@ For more of my projects and detailed descriptions, please visit my [portfolio we
   </a>
 </div>
 
-You can also reach out to me on Discord via username "Knivier".
+💬 You can also reach out to me on Discord: **Knivier**
+
+---
+
+Thanks for stopping by, and happy coding! 🚀
