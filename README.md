@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website at [knivier.com](https://knivier.com "Go to my Portfolio") to learn more about my projects and journey! For my spam account where I just build random and not functioning projects (mostly), go to "KnivSpamley"
+I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website at [knivier.com](https://knivier.com "Go to my Portfolio") to learn more about my projects and journey! For my spam account where I just build random and not functioning projects (mostly), go to [github.com/KnivSpamley]("KnivSpamley")
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
