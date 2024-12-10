@@ -14,9 +14,11 @@ My main and favorite language is **Java**. If you [follow me](https://knivier.gi
 ### 🛠️ Future Goals 
 
 On my path to becoming a **Full Stack Developer**, my goals include:
-- 🌟 Achieving **full proficiency in Java and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
+- 🌟 Achieving **full proficiency in Java, C++ and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
 - 🎨 Mastering **HTML, CSS, and Bootstrap** for a sleek and responsive front-end experience.
 - 🤔 Understanding **DevOps** and how it can streamline my workflow.
+
+Visit my website for my current skills list. 
 
 ### 🚀 Notable Projects
 
@@ -24,7 +26,7 @@ On my path to becoming a **Full Stack Developer**, my goals include:
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot template, initially built in 2020 and modernized over time.
 - **[Troll Game](https://knivier.com/trollgameinfo "Troll Game Website")**: A Java-based text adventure game. Defeat trolls and conquer challenges to beat Archie!
 
-> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. Stay tuned for what’s next! 😄
+> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. Stay tuned for what’s next! 
 
 For a deeper dive into my work, head over to my [portfolio website](https://knivier.com "Go to my Portfolio").
 
