@@ -9,7 +9,7 @@ I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website 
 
 ### 👨‍💻 About Me
 
-My main and favorite language is **Java**. If you [follow me](https://knivier.github.io/#contact) on any of my socials, you'll know I frequently roast Python 🐍, but I still code in it because it’s becoming more of a standard in the industry. 
+My main and favorite language is **Java**. For the 2025 year, I'm also changing my goals to accomodate Python, Visual Basic, C, and more Web-based languages into my "language-array".
 
 ### 🛠️ Future Goals 
 
