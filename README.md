@@ -14,7 +14,7 @@ My main and favorite language is **Java**. For the 2025 year, I'm also changing 
 ### 🛠️ Future Goals 
 
 On my path to becoming a **Full Stack Developer**, my goals include:
-- 🌟 Achieving **full proficiency in Java, C++ and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
+- 🌟 Achieving **full proficiency in Java, C, and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
 - 🎨 Mastering **HTML, CSS, and Bootstrap** for a sleek and responsive front-end experience.
 - 🤔 Understanding **DevOps** and how it can streamline my workflow.
 
@@ -22,26 +22,15 @@ Visit my website for my current skills list.
 
 ### 🚀 Notable Projects
 
+- **[Popcorn](https://github.com/knivier/Popcorn "Popcorn GitHub")**: A bare-metal Kernel framework that shows my ability to build projects even in languages I don't understand fully!
 - **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to simplify GUI-based game development in Java.
 - **[Pal](https://github.com/knivier/PalBot "Pal GitHub Repo")**: A Python Discord bot template, initially built in 2020 and modernized over time.
-- **[Troll Game](https://knivier.com/trollgameinfo "Troll Game Website")**: A Java-based text adventure game. Defeat trolls and conquer challenges to beat Archie!
 
-> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. Stay tuned for what’s next! 
+> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. 
 
 For a deeper dive into my work, head over to my [portfolio website](https://knivier.com "Go to my Portfolio").
 
-### 🌐 Connect with Me
-
-<div id="badges">
-  <a href="https://www.reddit.com/user/_NessJL">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
-  <a href="https://x.com/Knivier">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-💬 You can also reach out to me on Discord: **Knivier**
+💬 You can reach out to me on Discord: **Knivier**
 
 ---
 
