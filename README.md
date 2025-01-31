@@ -9,14 +9,14 @@ I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website 
 
 ### 👨‍💻 About Me
 
-My main and favorite language is **Java**. For the 2025 year, I'm also changing my goals to accomodate Python, Visual Basic, C, and more Web-based languages into my "language-array".
+My main and favorite language is **Java**. For the 2025 year, I'm also changing my goals to accomodate Python, Visual Basic, C, and more Web-based languages. 
 
 ### 🛠️ Future Goals 
 
 On my path to becoming a **Full Stack Developer**, my goals include:
-- 🌟 Achieving **full proficiency in Java, C, and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust.
+- 🌟 Achieving **full proficiency in Java, C, and JavaScript** for backend development, with some intermediate skills in Kotlin and Rust (already 90% there with Java)
 - 🎨 Mastering **HTML, CSS, and Bootstrap** for a sleek and responsive front-end experience.
-- 🤔 Understanding **DevOps** and how it can streamline my workflow.
+- ~~🤔 Understanding **DevOps** and how it can streamline my workflow.~~ **Completed**
 
 Visit my website for my current skills list. 
 
