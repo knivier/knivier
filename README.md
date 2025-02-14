@@ -21,7 +21,7 @@ On my path to becoming a **Full Stack Developer**, my goals include:
 
 - **[Popcorn](https://github.com/knivier/Popcorn "Popcorn GitHub")**: A bare-metal Kernel framework that shows my ability to build projects even in languages I don't understand fully!
 - **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to simplify GUI-based game development in Java.
-- **[WizViz](https://knivier.com/wizviz "WizViz GitHub Repo")**: A Python-based wizardry game that won Spartahack X's "best game award"; controls are CV based!
+- **[WizViz](https://github.com/knivier/wizviz "WizViz GitHub Repo")**: A Python-based wizardry game that won Spartahack X's "best game award"; controls are CV based!
 
 > 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. 
 
