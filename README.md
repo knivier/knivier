@@ -23,12 +23,10 @@ On my path to becoming a **Full Stack Developer**, my goals include:
 - **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**: A Java game engine designed to simplify GUI-based game development in Java.
 - **[WizViz](https://github.com/knivier/wizviz "WizViz GitHub Repo")**: A Python-based wizardry game that won Spartahack X's "best game award"; controls are CV based!
 
-> 📝 **Note**: Troll Game has been sunsetted for now as I’m focusing on bigger projects. 
-
 For a deeper dive into my work, head over to my [portfolio website](https://knivier.com "Go to my Portfolio").
 
-💬 You can reach out to me on Discord: **Knivier**
+💬 You can reach out to me on Discord or Slack via username **Knivier**.
 
 ---
 
-Thanks for stopping by, and happy coding! 🚀
+Thanks for stopping by, and happy coding! 
