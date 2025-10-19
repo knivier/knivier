@@ -31,7 +31,7 @@ My primary language I code in is Java, but I also have lots of experience in a d
 ### 🚀 Notable Projects
 
 * **[Popcorn](https://github.com/knivier/Popcorn "Popcorn GitHub")**
-  A bare-metal kernel framework that proves I love jumping in the deep end—even when I don't fully understand the pool yet.
+  A bare-metal kernel framework that shows my commitment to loosing sleep for things I don't even understand.
 
 * **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**
   A Java game engine designed to simplify GUI-based game dev—perfect for building structured, pixel-powered madness.
