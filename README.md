@@ -6,10 +6,6 @@ For my spam account where I just build random projects (mostly), go to [https://
 
 For my polished deployment purposed applications, visit [https://github.com/KnivInstitute/stressor](https://github.com/KnivInstitute/stressor)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knivier&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -47,7 +43,7 @@ For a deeper dive into my work, head over to my [portfolio website](https://kniv
 ---
 
 
-**Some of my work is not available on GitHub due to the privacy of the work**. I have worked with labs at the University of Michigan and Van Andel Institute; therefore, I **cannot** release the code as the data is affiliated with it. However, I can provide descriptions of the work along with showcases to private individuals/organizations, so please contact me if you're interested!
+**Some of my work is not available on GitHub due to the privacy of the work**. I have worked with labs at the University of Michigan and Van Andel Institute; therefore, I **cannot** release the code publically as there is research data with it. However, I am allowed to show how demos about these projects under demos one-on-one; contact me if you're interested!
 
 💬 You can reach out to me on Discord or Slack via username **Knivier**. You can also reach out to me in [contact methods listed on my website](https://knivier.com/#contact).
 
