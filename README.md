@@ -2,9 +2,7 @@
 
 I'm **Knivier**, known IRL as **Agniva**. You can check out my personal website at [knivier.com](https://knivier.com "Go to my Portfolio") to learn more about my projects and journey! 
 
-For my spam account where I just build random projects (mostly), go to [https://github.com/knivspamley ](https://github.com/knivspamley)
-
-For my polished deployment purposed applications, visit [https://github.com/KnivInstitute/stressor](https://github.com/KnivInstitute/stressor)
+For my polished deployment purposed applications, visit [https://github.com/KnivInstitute/](https://github.com/KnivInstitute/)
 
 ---
 
@@ -32,11 +30,8 @@ My primary language I code in is Java, but I also have lots of experience in a d
 * **[Activerse](https://knivier.com/activerseinfo "Activerse Website")**
   A Java game engine designed to simplify GUI-based game dev—perfect for building structured, pixel-powered madness.
 
-* **[Stressor](https://github.com/KnivInstitute/stressor)**
-  A Rust-based GUI app for Windows that lets you stress-test your system (for science, or chaos).
-
 * **[WizViz](https://github.com/knivier/wizviz "WizViz GitHub Repo")**
-  A computer vision–controlled wizard game written in Python that won *Best Game* at Spartahack X!
+  A computer vision–controlled wizard game written in Python that won *Best Game* at Spartahack 10!
 
 For a deeper dive into my work, head over to my [portfolio website](https://knivier.com "Go to my Portfolio").
 
@@ -48,5 +43,6 @@ For a deeper dive into my work, head over to my [portfolio website](https://kniv
 💬 You can reach out to me on Discord or Slack via username **Knivier**. You can also reach out to me in [contact methods listed on my website](https://knivier.com/#contact).
 
 ---
+Spam Account: [https://github.com/knivspamley ](https://github.com/knivspamley)
 
 Thanks for stopping by, and happy coding! 
