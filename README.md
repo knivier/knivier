@@ -8,7 +8,7 @@ For my polished deployment purposed applications, visit [https://github.com/Kniv
 
 ### 👨‍💻 About Me
 
-I'm a high school senior that's targetting computer engineering and embedded systems as my primary line of work. I love specializing in incredibly deeper software, such as OS development software and even kernel development! That said, I also love to code more abstract applications, such as some websites, data analysis systems (from CSVs and images, take your pick) and lots more. 
+I'm a computer engineering student attending the University of Michigan (class of '30 GO BLUE!). I love specializing in incredibly deeper software like OS development software and even kernel development! That said, I also love to code more abstract applications, such as some websites, data analysis systems (from CSVs and images, take your pick) and lots more. 
 
 My primary language I code in is Java, but I also have lots of experience in a diverse amount of languages (Rust, HTML/CSS, Python, and others). I firmly believe that coding languages are just tools in a box that can be used for projects; like each tool in a toolbox, each language has its own advantages/disadvantages, and it's up to the programmer to decide how they wish to structure their project. 
 
@@ -43,6 +43,5 @@ For a deeper dive into my work, head over to my [portfolio website](https://kniv
 💬 You can reach out to me on Discord or Slack via username **Knivier**. You can also reach out to me in [contact methods listed on my website](https://knivier.com/#contact).
 
 ---
-Spam Account: [https://github.com/knivspamley ](https://github.com/knivspamley)
 
 Thanks for stopping by, and happy coding! 
